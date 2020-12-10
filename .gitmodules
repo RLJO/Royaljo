@@ -1,1 +1,6 @@
 
+
+[submodule "novacode-nl/python-formio-data"]
+	path = novacode-nl/python-formio-data
+	url = git@github.com:novacode-nl/python-formio-data.git
+	branch = master
